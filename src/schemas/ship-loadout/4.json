@@ -320,7 +320,7 @@
           "type":         "integer",
           "minimum":      1
         },
-        "shield": {
+        "shieldStrength": {
           "description":  "Shield strength in Mega Joules (Mj)",
           "type":         "number",
           "minimum":      0
